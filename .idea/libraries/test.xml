@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="test">
+    <CLASSES>
+      <root url="jar://D:/MINECRAFT DVELOPMENT/TestServer/test.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://D:/MINECRAFT DVELOPMENT/TestServer/test.jar!/" />
+    </SOURCES>
+  </library>
+</component>
